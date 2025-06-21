@@ -20,7 +20,14 @@ This project explores in-flight meal satisfaction based on customer feedback fro
 - Data-backed charts and summaries support the recommendations.
 
 ---
+## 📂 Files in This Repo
 
+| File | Description |
+|------|-------------|
+| `Indigo_Feedback_Analysis.ipynb` | Main notebook with all data analysis |
+| `Charts/` | Visual exports from Excel or Canva |
+
+---
 ## 📽️ Project Presentation (Canva)
 
 You can view the full visual walkthrough of insights and recommendations here:  
